@@ -1,0 +1,55 @@
+*{
+    font-family: sans-serif;
+}
+
+#center{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#scar  {
+    width: 50%;
+}
+
+img {
+    width: 100%;
+}
+
+#text{
+    width: 50%;
+}
+
+#t2{
+    font-size: 2rem;
+}
+
+button{
+    height: 50px;
+    width: 150px;
+    font-size: 12px;
+    color: blanchedalmond;
+    background-color: black;
+    border-radius: 6px;
+    border: none;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgb(99, 97, 97);
+    text-align: center;
+  }
+
+@media (max-width: 768px) {
+   #text{
+       width: 60%;
+   }
+
+   #scar {
+       width: 100%;
+   }
+
+}
