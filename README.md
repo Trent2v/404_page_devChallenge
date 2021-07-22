@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
  </span>
-    <a href="https://{https://trent2v.github.io/404_page_devChallenge/}">
+    <a href="https://trent2v.github.io/404_page_devChallenge/">
       Solution
     </a>
     <span> | </span>
